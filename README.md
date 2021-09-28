@@ -11,5 +11,5 @@ Principais tecnologias usados no projeto
 + React Query
 + Chakra UI
 
-![Imagem Site](/.github/image-site.png?raw=true)
+![Imagem Site](.github/image-site.png?raw=true)
 
